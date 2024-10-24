@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1295869260580651009/1297994002401857638/image.png"  />
+  <img height="200" src="https://imgur.com/a/29pLFV6"  />
 </div>
 
 ###
